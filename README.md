@@ -16,7 +16,7 @@ The goal was to evaluate how repurposing impacts **energy savings** and **CO₂ 
 - Laptops and desktops provide similar benefits when normalized by device count.
 
 ## Project Files
--(./SQL_Project_Sustainability_Impact_Analysis_for_Intel.pdf) – Full report with SQL queries, results, and recommendations.
+ [`SQL_Project_Sustainability_Impact_Analysis_for_Intel.pdf`](./SQL_Project_Sustainability_Impact_Analysis_for_Intel.pdf) – Full report with SQL queries, results, and recommendations.
 
 ## Recommendation
 Intel can maximize sustainability impact by prioritizing repurposing **older devices** in **Asia and North America**.
